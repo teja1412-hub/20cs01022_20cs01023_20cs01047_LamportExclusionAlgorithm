@@ -1,5 +1,5 @@
 # Contributors
-1. Vejandala Bhavya Teja - 20CS01022
+1. Vejandla Bhavya Teja - 20CS01022
 2. Rishithaa Gottipati - 20CS01023
 3. Sakshi Shashikant Yeole - 20CS01047
 
